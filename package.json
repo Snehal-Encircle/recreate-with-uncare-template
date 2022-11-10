@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "vite": "^3.2.3"
+  },
+  "name": "unicare-master",
+  "description": "Thank you for using our template!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite --host"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
